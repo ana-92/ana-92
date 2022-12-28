@@ -12,7 +12,7 @@ Currently base in Costa Rica
 - 👨‍💻 TypeScript, JavaScript, C, Java
 - ⚙️ React, Angular
 - 💽 MySQL, SQL, Mongo
-- 👨‍💻 HPC
+- 👨‍💻 AWS,HPC
 
 ## Contact
 - [@ana-izaguirre](https://www.linkedin.com/in/ana-izaguirre-096369128/) on LinkedIn
