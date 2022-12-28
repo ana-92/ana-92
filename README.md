@@ -4,9 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-I'm Ana, a 30 years old web developer from Honduras.
-Currently base in Costa Rica 
-
+A Web Developer from Honduras currently based in Costa Rica WFH :house:
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, C, Java
