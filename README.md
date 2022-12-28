@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, Hey! 👋, I'm Ana <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at Intel
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**ana-92/ana-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ana, a 30 years old web developer from Honduras.
+Currently base in Costa Rica 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 TypeScript, JavaScript, C, Java
+- ⚙️ React, Angular
+- 💽 MySQL, SQL, Mongo
+- 👨‍💻 HPC
+
+## Contact
+- [@ana-izaguirre](https://www.linkedin.com/in/ana-izaguirre-096369128/) on LinkedIn
