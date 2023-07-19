@@ -7,7 +7,7 @@
 A Web Developer from Honduras currently based in Costa Rica WFH :house:
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, C, Java
+- 👨‍💻 TypeScript, JavaScript, C, Java, Graphql
 - ⚙️ React, Angular
 - 💽 MySQL, SQL, Mongo
 - 👨‍💻 AWS,HPC
