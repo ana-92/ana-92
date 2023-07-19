@@ -12,5 +12,8 @@ A Web Developer from Honduras currently based in Costa Rica WFH :house:
 - 💽 MySQL, SQL, Mongo
 - 👨‍💻 AWS,HPC
 
+## Stats
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-92&show_icons=true&theme=tokyonight)
+
 ## Contact
 - [@ana-izaguirre](https://www.linkedin.com/in/ana-izaguirre-096369128/) on LinkedIn
