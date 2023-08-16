@@ -12,10 +12,10 @@ A Web Developer from Honduras currently based in Costa Rica WFH :house:
 - 💽 MySQL, SQL, Mongo
 - 👨‍💻 AWS,HPC
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-92\&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ana-92&layout=donut-vertical)
 
 ## Stats
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-92\&hide=issues\&show_icons=true\&include_all_commits=true)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-92&hide=issues&show_icons=true&include_all_commits=true)
 
 ## Contact
 - [@ana-izaguirre](https://www.linkedin.com/in/ana-izaguirre-096369128/) on LinkedIn
