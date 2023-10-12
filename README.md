@@ -14,4 +14,4 @@ A Software Web Developer from Honduras currently based in Costa Rica WFH :house:
 
 ## Contact
 - [@ana-izaguirre](https://www.linkedin.com/in/ana-izaguirre-096369128/) on LinkedIn
-- [Portfolio](https://ana-92.github.io) 
+- [Portfolio](https://ana-92.github.io/portfolio) 
